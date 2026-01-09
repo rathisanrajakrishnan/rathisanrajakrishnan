@@ -2,9 +2,9 @@
 
 ## I'm a Mathematics Student, Software Developer, and Tech Enthusiast!
 
-- 🔭 &nbsp;I started my development journey by creating Python projects, and slowly but surely, I am most proud of my personal portfolio website!
+- 🔭 &nbsp;I started my development journey by creating Python projects, and slowly but surely, I transitioned into building full-stack applications focused on solving real-world problems!
 
-<code>Click the waving hand to check it out :)</code>
+<code>Click the waving hand to check it out my personal portfolio :)</code>
 
 - 📚 &nbsp;I’m a second year Computational Math student at the University of Waterloo
 - 💻 &nbsp;I’m looking to expand my knowledge in the areas of full-stack development and machine learning
@@ -36,9 +36,3 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="GitHub" width="26px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 <img align="left" alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
-
-<br>
-<br>
-
-## My GitHub Stats:
-[![Top Langs](https://raw.githubusercontent.com/rathisanrajakrishnan/github-stats/master/generated/languages.svg#gh-dark-mode-only)
